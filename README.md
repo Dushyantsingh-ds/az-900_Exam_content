@@ -43,5 +43,5 @@ you will learn 40% new from every website
 ![alt text](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/main/Assets/Microsoft_Certified_Professional_Certificate.png)
 ![alt text](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/main/Assets/azure-fundamentals-badge.png)
 
-## Note : ALl the Reverse & Rights owned by its writer, Author and Orgnization.
+## Note : All the Reverse & Rights owned by its writer, Author and Orgnization.
 THis is only for Educational Porpose and Any body have any problem from my this Repose, so please infom me, i will remove that.
