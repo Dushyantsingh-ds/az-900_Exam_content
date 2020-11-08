@@ -41,8 +41,8 @@ you will learn 40% new from every website
 
 
 I also followed this and got 970 Marks
-
-![alt text](blob:https://mcptnc.microsoft.com/ed502e5b-8533-44d0-b330-7b8106e70515)
+![alt text](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/main/Assets/azure-fundamentals-badge.png)
+![alt text](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/main/Assets/Microsoft_Certified_Professional_Certificate.png)
 
 
 Note : ALl the Reverse & Rights owned by its writer, Author and Orgnization.
