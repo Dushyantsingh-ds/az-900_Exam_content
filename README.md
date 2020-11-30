@@ -17,7 +17,7 @@ Az-900 Microsoft Azure Cloud Fundamentals Certification preparation Content
 [Here](https://youtu.be/NKEFWyqJ5XA)
 
 ## 3- Learn Latest Dump 
-[Here (.pdf)](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/main/Resources)
+[Here (.pdf)](https://github.com/Dushyantsingh-ds/az-900_Exam_content/blob/master/Resources)
 
 ## 4- Learn from free online website
 60% questions are same in all websites 
