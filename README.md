@@ -25,7 +25,7 @@ you will learn 40% new from every website
 
 ### 1-[itexams](https://www.itexams.com/exam/AZ-900)
 
-### 2-[examtopics](https://www.(examtopics).com/exams/microsoft/az-900/)
+### 2-[examtopics](https://www.examtopics.com/exams/microsoft/az-900/)
 
 ### 3-[testpreptraining](https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test)
 
